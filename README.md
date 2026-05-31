@@ -210,18 +210,7 @@ http://localhost:5000
 - Continuous environmental monitoring
 - Early detection of hazardous conditions
 - Improved worker safety
-- Real-time alert generation
-- Historical data analysis support
+- Real-time alert via email 
 
----
 
-## Contributors
 
-- MV Siddardha
-- Team Members
-
----
-
-## License
-
-This project is developed for educational, research, and hackathon purposes.
